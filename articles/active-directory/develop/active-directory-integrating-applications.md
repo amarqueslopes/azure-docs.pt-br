@@ -93,7 +93,7 @@ As etapas a seguir mostram como a experiência de consentimento funciona para o 
 
 5. Depois que o usuário dá consentimento, um código de autorização é retornado ao aplicativo, que é resgatado para aquisição de um token de acesso e de um token de atualização. Para obter mais informações sobre esse fluxo, consulte a seção [aplicativo Web para API Web em Cenários de autenticação para o Azure AD](active-directory-authentication-scenarios.md#web-application-to-web-api).
 
-6. Como administrador, você pode também concorda com permissões do aplicativo em nome de todos os usuários em seu locatário. O consentimento administrativo impede que a caixa de diálogo de consentimento apareça para cada usuário no locatário e é feito na página do aplicativo no [portal do Azure](https://portal.azure.com). Na página **Configurações** para seu aplicativo, clique em **Permissões Necessárias** e clique no botão **Conceder Permissões**. 
+6. Como administrador, você pode também concordar com permissões do aplicativo em nome de todos os usuários em seu locatário. O consentimento administrativo impede que a caixa de diálogo de consentimento apareça para cada usuário no locatário e é feito na página do aplicativo no [portal do Azure](https://portal.azure.com). Na página **Configurações** para seu aplicativo, clique em **Permissões Necessárias** e clique no botão **Conceder Permissões**. 
 
   ![Conceda permissões para consentimento explícito de admin](./media/active-directory-integrating-applications/grantpermissions.png)
     
